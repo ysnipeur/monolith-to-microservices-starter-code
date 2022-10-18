@@ -1,0 +1,9 @@
+backend-feed-6c6d449-6j7qz      1/1     Running   0          28m
+backend-feed-6c6d449-jzh9d      1/1     Running   0          28m
+backend-user-7cfc8ff49c-6l2qg   1/1     Running   0          28m
+backend-user-7cfc8ff49c-vfxzb   1/1     Running   0          28m
+backend-user-7cfc8ff49c-wf8rt   1/1     Running   0          8m52s
+frontend-6d674bc695-kg4c9       1/1     Running   0          28m
+frontend-6d674bc695-srtmb       1/1     Running   0          28m
+reverseproxy-666bc96bb7-md7dm   1/1     Running   0          28m
+reverseproxy-666bc96bb7-s2kz2
