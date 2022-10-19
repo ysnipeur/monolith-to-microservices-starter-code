@@ -24,6 +24,10 @@ spec:
               name: env-configmap
           - secretRef: 
               name: env-pamsy-secrets
+        resources:
+          requests:
+            memory: "64Mi"
+            cpu: "75m"
         volumeMounts:
           - mountPath: "/root/.aws/"
             name: aws-creds
