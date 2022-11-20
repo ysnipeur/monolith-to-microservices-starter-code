@@ -3,9 +3,9 @@ kind: ConfigMap
 metadata:
   name: env-configmap
 data:
-  POSTGRES_HOST: instancedbprojet3.cu59icumc0nj.us-east-1.rds.amazonaws.com
-  POSTGRES_DB: pamsydatabase
-  AWS_BUCKET: pamsy-140872405465-dev
+  POSTGRES_HOST: udagram-instance.cirbor37x45e.us-east-1.rds.amazonaws.com
+  POSTGRES_DB: udagramDB
+  AWS_BUCKET: yvan-udagram-bucket
   AWS_REGION: us-east-1
   AWS_PROFILE:  default
   JWT_SECRET: testing
